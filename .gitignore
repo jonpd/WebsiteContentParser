@@ -1,0 +1,10 @@
+/target
+/*.ini
+/*.log.*
+/*.tmp
+*.log
+.classpath
+.project
+.settings
+/build
+nb-configuration.xml
